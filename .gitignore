@@ -1,0 +1,8 @@
+# Executáveis gerados pelo gcc
+*.exe
+*.o
+# Dados criados pelos programas em tempo de execução
+produtos.txt
+produtos.tmp
+pedidos.txt
+vendas.txt
